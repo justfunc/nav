@@ -8,5 +8,11 @@
     },
     "observability": {
         "enabled": true
-    }
+    },
+  // 配置数据库
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "nav",
+    "database_id": "2371dcde-c20b-41e1-8ebb-4f0b60d35e2e"
+  }]
 }
